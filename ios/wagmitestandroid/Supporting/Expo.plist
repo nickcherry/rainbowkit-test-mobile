@@ -11,6 +11,6 @@
     <key>EXUpdatesSDKVersion</key>
     <string>45.0.0</string>
     <key>EXUpdatesURL</key>
-    <string>https://exp.host/@farcaster/wagmi-test-android</string>
+    <string>https://exp.host/@farcaster/rainbowkit-test</string>
   </dict>
 </plist>
